@@ -72,6 +72,28 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "CampusCloud",
+      des: "A scalable learning management system for course creation, user progress tracking, and secure payments, built with Next.js and AWS serverless architecture.",
+      img: "/cloudCampus.png",
+      iconLists: ["/next.svg", "/tail.svg", "/js.svg","/c.svg"],
+      link: "https://learning-management-lms.vercel.app//",
+    }, {
+      id: 2,
+      title: "SelfDriving Car",
+      des: "A JavaScript-based simulation exploring neural networks and genetic algorithms to mimic autonomous vehicle decision-making in a browser environment.",
+      img: "/selfdrivingCar.png",
+      iconLists: ["/next.svg", "/tail.svg", "/js.svg","/c.svg"],
+      link: "https://sincere-arcticwolf.static.domains/",
+    }, {
+      id: 3,
+      title: "PhotoAi",
+      des: "An AI-powered platform that creates social media-ready photos by training models on user-uploaded faces, powered by Next.js, Stripe, and Fal AI.",
+      img: "/photoAi.png",
+      iconLists: ["/next.svg", "/tail.svg", "/js.svg","/c.svg"],
+      link: "https://photo-ai-flame.vercel.app/",
+    },
+    {
+      id: 4,
       title: "ChatGPT Clone",
       des: "An AI chatbot that utilizes the 3.5model of openAI",
       img: "/chatbot.png",
@@ -79,7 +101,7 @@ export const navItems = [
       link: "/ui.earth.com",
     },
     {
-      id: 2,
+      id: 5,
       title: "Promptopia",
       des: "An AI prompt sharing app to share and create new interesting prompts with tags to view different users.",
       img: "/promptopia.png",
