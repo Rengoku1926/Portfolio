@@ -179,15 +179,15 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Web developer",
-      desc: "Developed the website of a new media agency promoting digital marketing.",
+      title: "Sde Intern",
+      desc: "Developed in-house tools at IG Drones",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Freelancer",
-      desc: "Did some freelance projects on upwork and freelancer",
+      title: "Web Developer",
+      desc: "Made static websites for clients",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
