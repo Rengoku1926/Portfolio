@@ -50,7 +50,7 @@ const Hero = () => {
             Hi! I&apos;m Prateek, a Next.js Developer based in India.
           </p>
 
-          { <a href="https://drive.google.com/file/d/1N-1k3buHwXewH_on6rbyIpV9EwLlyNuo/view?usp=sharing">
+          { <a href="https://drive.google.com/file/d/1GjTJYuHfXXzyigmyJyfUlVzOGIpFTriu/view?usp=sharing">
             <MagicButton  
               title="See Resume"
               icon={<FaLocationCrosshairs />}
